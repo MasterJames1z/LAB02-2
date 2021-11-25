@@ -140,3 +140,5 @@ Hotkey:
     Markup Code appears between colons :EMOJICODE:
 
     :mask:
+    
+    Edit: Suradit Luo 632115043
